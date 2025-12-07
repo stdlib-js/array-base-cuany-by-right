@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-25)
+## Unreleased (2025-12-07)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`c8d88a1`](https://github.com/stdlib-js/stdlib/commit/c8d88a11332fedb85d5dc664fcd4ee496b26dd00) - **bench:** refactor to use string interpolation in `array/base/cuany-by-right` [(#8863)](https://github.com/stdlib-js/stdlib/pull/8863) _(by Aman Singh)_
 -   [`47088cc`](https://github.com/stdlib-js/stdlib/commit/47088cc299d84289a904dd2e7d2cdf0aee9057aa) - **docs:** fix TSDoc comments example code and return annotation values _(by Philipp Burckhardt)_
 -   [`ca2fbd0`](https://github.com/stdlib-js/stdlib/commit/ca2fbd0beec71a0f41307b19939b2c8dd27c76a9) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`aad48ea`](https://github.com/stdlib-js/stdlib/commit/aad48eab1f19217854f4ffbfaed2a8be664b0f47) - **chore:** resolve lint errors _(by Philipp Burckhardt)_
@@ -50,8 +51,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Aman Singh
 -   Debashis Maharana
 -   Philipp Burckhardt
 
