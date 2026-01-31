@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-cuany-by-right",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Cumulatively test whether at least one array element in a provided array passes a test implemented by a predicate function, while iterating from right-to-left.",
   "license": "Apache-2.0",
   "author": {
