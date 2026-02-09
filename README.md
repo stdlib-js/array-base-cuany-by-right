@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cuanyByRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cuany-by-right@deno/mod.js';
+import cuanyByRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cuany-by-right@v0.1.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cuany-by-right@deno/mod.js';
+import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cuany-by-right@v0.1.1-deno/mod.js';
 ```
 
 #### cuanyByRight( x, predicate\[, thisArg] )
@@ -138,7 +138,7 @@ The function supports the following parameters:
 
 ```javascript
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-bernoulli@deno/mod.js';
-import cuanyByRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cuany-by-right@deno/mod.js';
+import cuanyByRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cuany-by-right@v0.1.1-deno/mod.js';
 
 function isPositive( value ) {
     return ( value > 0 );
