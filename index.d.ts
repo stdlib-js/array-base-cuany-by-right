@@ -16,7 +16,7 @@
 * limitations under the License.
 */
 
-/// <reference types="@stdlib/types"/>
+/// <reference types="https://cdn.jsdelivr.net/gh/stdlib-js/types@esm/index.d.ts"/>
 
 import { Collection, AccessorArrayLike, TypedArray, BooleanArray } from '@stdlib/types/array';
 
